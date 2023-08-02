@@ -1,5 +1,7 @@
+package Aula3;
+
 public class Metodos {
-    // Metodos/Funções -> estruturas que executam uma determinada tarefa/atividade
+    // Aula3.Metodos/Funções -> estruturas que executam uma determinada tarefa/atividade
 
     public String bemVindo(){
         return "Bem-vindo!";

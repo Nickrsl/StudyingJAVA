@@ -1,3 +1,5 @@
+package Aula2;
+
 public class SaidaDeDados {
     public static void main(String[] args) {
         System.out.println("Saída no console, com quebra de linha.");

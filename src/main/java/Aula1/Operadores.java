@@ -1,6 +1,8 @@
+package Aula1;
+
 public class Operadores {
     public static void main (String[] args){
-        // Operadores matemáticos
+        // Aula1.Operadores matemáticos
         int a = 10;
         int b = 15;
         int soma = a + b;
@@ -35,7 +37,7 @@ public class Operadores {
 
 
 
-        // Operadores relacionais (<, >, ==, <=, >=, !=)
+        // Aula1.Operadores relacionais (<, >, ==, <=, >=, !=)
         boolean teste1 = 10 > 5; // true
         boolean teste2 = 11 < 1; // false
         boolean teste3 = 5 == 5; // true
@@ -44,7 +46,7 @@ public class Operadores {
         boolean teste6 = 6 <= 8; // true
 
 
-        // Operadores lógicos (&&, ||, !)
+        // Aula1.Operadores lógicos (&&, ||, !)
         boolean teste7 = true && false; // false
         boolean teste8 = true || false; // true
         boolean teste9 = (5 > 10) && (1 < 5); // false

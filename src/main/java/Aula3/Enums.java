@@ -1,3 +1,5 @@
+package Aula3;
+
 // Enumeração - todos os atributos em letras maiúsculas
 enum AccessLevel {
     COMUM, USUARIO, ADMINISTRATOR

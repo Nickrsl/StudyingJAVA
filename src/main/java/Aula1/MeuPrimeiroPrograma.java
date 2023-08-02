@@ -1,3 +1,5 @@
+package Aula1;
+
 /*
 * Um programa JAVA deve ter o nome bem definido
 * TudoJuntoEComAPrimeiraLetraMaiuscula

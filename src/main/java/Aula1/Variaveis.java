@@ -1,3 +1,5 @@
+package Aula1;
+
 public class Variaveis {
     // variável = container de dados
     // JAVA linguagem fortemente tipada
