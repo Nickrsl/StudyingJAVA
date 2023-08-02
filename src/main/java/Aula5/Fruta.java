@@ -10,5 +10,4 @@ public class Fruta {
    void amadurecer(int dias) {
       madura = true;
    }
-   }
 }
